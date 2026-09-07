@@ -236,3 +236,6 @@ This repository serves as the official landing page for Dragon Mania Legends. Th
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Dragon Mania Legends today!**
+
+---
+**Last updated:** 2026-09-07 22:24:05 UTC
